@@ -1,6 +1,18 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: <p align="center"> Vishnu CV </p>
+logo: /assets/img/Vishnu.jpg
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/vishnucvinod">LinkedIn</a> |
+  <a href="https://github.com/vishnucvinod">GitHub</a>
+  
+  <br>   
+  I'm working as DevOps Engineer at Zero Pixels Technologies.
+  I'm having a 1.5 year of experience in DevOps field and 1 year of experience working as a support engineer in UST Global.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
